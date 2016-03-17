@@ -5,4 +5,4 @@ down web including js, css, img. and periodic backup
 example: main.py -d 60 -u http://m.sohu.com -o /tmp/backup 
 * -d : backup interval (second)
 * -u : backup main url
-* -o : back up destination path, such as /tmp/backup
+* -o : backup destination path, such as "/tmp/backup"
